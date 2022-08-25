@@ -10,7 +10,7 @@ In this project, We decided to detect which emotions were most expressed by user
 period between February 24, 2020 1 and May 2, 2021. In order to obtain the news of the users about the infection by
 Coronavirus, We have considered the dataset regarding the official updated bulletin as of May 31st 2021, to then extract the data relating to the period of interest. Integrating the information of interest to development of the project, the results were visualized via the Tableau software.
 
-
+Mark obtained: 29/30
 Technologies used: API (non official - SNSCRAPE library on python), Python, MongoDB (3T Student software), JSON data, Tableau.
 
 
