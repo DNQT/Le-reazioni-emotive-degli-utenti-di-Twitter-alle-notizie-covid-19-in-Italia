@@ -1,4 +1,7 @@
-# Le-reazioni-emotive-degli-utenti-di-Twitter-alle-notizie-covid-19-in-Italia
+# Le reazioni emotive degli utenti di Twitter alle notizie covid 19 in Italia
+English title: The emotional reactions of Twitter users to the covid-19 news in Italy
+
+
 This project rappresent the main research done during the Master's degree in Data Science - Università di Milano-Bicocca.
 Co-author: Vittorio Menardo, Raffaele Moretti
 
