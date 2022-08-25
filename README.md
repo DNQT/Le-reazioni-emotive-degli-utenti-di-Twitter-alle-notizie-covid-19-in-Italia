@@ -12,4 +12,5 @@ Technologies used: API (non official - SNSCRAPE library on python), Python, Mong
 
 
 Please note that this research is divided in two parts: one related to the management of the data and one related to the visualization of the analysis.
-The reports are written in Italian language. To check the code, you can find the appropriate file.
+To read the reports, first you must read the Data Management report.
+Reports are written in Italian language. To check the code, you can find the appropriate file.
